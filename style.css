@@ -1,0 +1,89 @@
+/**********************************************
+      GENERALI DEL SITO
+      
+**********************************************/
+body{
+  
+  font-family:  Arial, sans-serif;
+    
+}
+
+
+a{
+  
+  text-decoration:none;
+}
+
+
+#header{
+  background-color: #6AB47B;
+  
+} 
+
+
+
+h1{
+  color:#FFFFFF;
+  font-size:36px;
+  text-align: center;
+  margin:0;
+  padding:15px 0 0 0;
+  text-transform: uppercase;
+  }
+
+h2{
+  text-align: center;
+  margin:0;
+  color:#FFFFFF;
+}
+
+#nav {
+  background-color: #599A68;
+  text-align:center;
+  list-style-type:none;
+  margin: 0;
+  
+}
+
+#nav li{
+  display:inline-block;
+  padding: 10px 8px 10px 8px; 
+  
+}
+
+#nav a{
+  color: #FFFF00;
+  
+}
+
+#nav li:hover{
+  background-color:#6AB47B;
+  
+}
+
+#content  {
+  width:500px;
+  margin: 30px auto;
+  
+}
+
+#content h3{
+  border-bottom: #599A68 solid 3px;
+  
+}
+
+#content img{
+  max-width:100%;
+  height: auto;
+}
+
+#footer {
+  text-align:center;
+  clear:both;
+  padding:40px;
+  background-color:#1F2421;
+}
+
+#footer p{
+  color:#FFFFFF;
+}
