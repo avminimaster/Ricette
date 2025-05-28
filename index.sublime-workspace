@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 826,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/andre/Desktop/Sito/style.css",
+		"/C/Users/andre/Desktop/Sito Ricette Italiane-/Tabelle/minimal-table.css",
+		"/C/Users/andre/Desktop/Sito Ricette Italiane-/Tabelle/tabelle.html",
+		"/C/Users/andre/Desktop/sitotagsemantici/index.html",
+		"/C/Users/andre/Desktop/sitoweb_semantici/landingpage.html",
+		"/C/Users/andre/Desktop/sitoweb_semantici/style.css",
+		"/C/Users/andre/Desktop/tagsemantici/style.css",
+		"/C/Users/andre/Desktop/tagsemantici/landingpage.html",
+		"/C/Users/andre/Desktop/Sito Ricette Italiane-/Sito Ricette Italiane/thimble-project/index.html",
+		"/C/Users/andre/Desktop/Sito Ricette Italiane-/Sito Ricette Italiane/thimble-project/style.css",
+		"/C/Users/andre/Desktop/Sito Ricette Italiane-/Sito Ricette Italiane/thimble-project/tagliatelle.html",
+		"/C/Users/andre/Desktop/Sito Ricette Italiane-/Sito Ricette Italiane/thimble-project/spaghetti.html",
+		"/C/Users/andre/Desktop/Sito Ricette Italiane-/Sito Ricette Italiane/thimble-project/penne.html",
+		"/C/Users/andre/Desktop/Ricette Italiane/tagliatelle.html",
+		"/C/Users/andre/Desktop/Ricette Italiane/penne.html",
+		"/C/Users/andre/Desktop/Ricette Italiane/index.html",
+		"/C/Users/andre/Desktop/Ricette Italiane/spaghetti.html",
+		"/C/Users/andre/Desktop/index.html",
+		"/C/xampp/htdocs/urso/index.html",
+		"/C/Users/andre/Desktop/5CIN/test1.html",
+		"/C/Users/andre/Desktop/parola.php",
+		"/C/Users/andre/Desktop/5CIN/rispostaTest1.php",
+		"/C/Users/andre/Desktop/5CIN/rispostaTest.php",
+		"/C/Users/andre/Desktop/5CIN/test.html",
+		"/C/xampp/htdocs/now.php",
+		"/C/xampp/htdocs/parola.php",
+		"/C/xampp/htdocs/sito1/index.html",
+		"/C/xampp/htdocs/sito1/risposta.php",
+		"/C/xampp/htdocs/sito2/index.html",
+		"/C/xampp/htdocs/sito2/risposta.php",
+		"/C/Users/andre/Desktop/test.html",
+		"/C/Users/andre/Desktop/site/link14.html",
+		"/C/Users/andre/Desktop/site/link12.html",
+		"/C/Users/andre/Desktop/site/link13.html",
+		"/C/Users/andre/Desktop/site/link11.html",
+		"/C/Users/andre/Desktop/site/link10.html",
+		"/C/Users/andre/Desktop/site/link7.html",
+		"/C/Users/andre/Desktop/site/link9.html",
+		"/C/Users/andre/Desktop/site/link8.html",
+		"/C/Users/andre/Desktop/site/link6.html",
+		"/C/Users/andre/Desktop/site/link5.html",
+		"/C/Users/andre/Desktop/site/link4.html",
+		"/C/Users/andre/Desktop/site/link3.html",
+		"/C/Users/andre/Desktop/site/index.html",
+		"/C/Users/andre/Desktop/site/link2.html",
+		"/C/Users/andre/Desktop/site/link1.html",
+		"/C/Users/andre/Desktop/site/RH.html",
+		"/C/Users/andre/Downloads/layoutbello.html",
+		"/C/Users/andre/Desktop/Sito Ricette Italiane/index.html",
+		"/C/Users/andre/Desktop/Landing Page/sito - nome/landingpage.html",
+		"/C/Users/andre/Desktop/sito - nome/sito - nome/style.css",
+		"/C/Users/andre/Desktop/sito - nome/sito - nome/landingpage.html",
+		"/C/Users/andre/Desktop/Didattica/Sito Ricette Italiane/thimble-project/_/index.html",
+		"/C/Users/andre/Desktop/Didattica/Sito Ricette Italiane/thimble-project/_/penne.html",
+		"/C/Users/andre/Desktop/Didattica/Sito Ricette Italiane/thimble-project/_/spaghetti.html",
+		"/C/Users/andre/Desktop/Didattica/Sito Ricette Italiane/thimble-project/_/tagliatelle.html",
+		"/C/Users/andre/Desktop/Didattica/Sito Ricette Italiane/thimble-project/_/style.css",
+		"/C/Users/andre/Desktop/html/style.css",
+		"/C/Users/andre/Desktop/html/model.html",
+		"/C/Users/andre/Desktop/sito/parallax-template/sito-marconi/css/style.css",
+		"/C/Users/andre/Desktop/sito/parallax-template/sito-marconi/index.html",
+		"/C/Users/andre/Desktop/sito/parallax-template/parallax-template/index.html",
+		"/C/Users/andre/Desktop/sito/parallax-template/parallax-template/css/style.css",
+		"/C/Users/andre/Desktop/mix/parallax-template/parallax-template/index.html",
+		"/C/Users/andre/Desktop/mix/parallax-template/parallax-template/css/style.css",
+		"/C/Users/andre/Desktop/mix/parallax-template/parallax-template/css/materialize.css",
+		"/C/xampp/htdocs/sicurezza/ese3.php",
+		"/C/xampp/htdocs/sicurezza/ese3.html",
+		"/C/xampp/htdocs/sicurezza/prodotti.php",
+		"/C/xampp/htdocs/sicurezza/xss.php",
+		"/C/Users/andre/Downloads/prova.html",
+		"/C/xampp/htdocs/rifugi/progetto.php",
+		"/C/xampp/htdocs/sicurezza/ese4.html",
+		"/C/Users/andre/Desktop/DB_5AIN/sicurezza/ese3.php",
+		"/C/Users/andre/Desktop/DB_5AIN/sicurezza/ese3.html",
+		"/C/xampp/htdocs/rifugi/leaflet/leaflet.css",
+		"/C/xampp/htdocs/rifugi/leaflet/leaflet.js",
+		"/C/xampp/htdocs/northwind/index1.php",
+		"/C/xampp/htdocs/northwind/index3.php",
+		"/C/xampp/htdocs/rifugi/doc.txt",
+		"/C/xampp/htdocs/rifugi/prova.php",
+		"/C/Users/andre/Desktop/DB_5AIN/php/northwind/prova.php",
+		"/C/xampp/htdocs/rifugi/guida.html",
+		"/C/Users/andre/Desktop/DB_5AIN/php/northwind/index3.php",
+		"/C/Users/andre/Desktop/DB_5AIN/php/northwind/index1.php",
+		"/C/Users/andre/Desktop/DB_5AIN/php/northwind/index.php",
+		"/C/Users/andre/Desktop/DB_5AIN/php/northwind/index2.php",
+		"/C/xampp/htdocs/northwind/index.php",
+		"/C/xampp/htdocs/northwind/index2.php",
+		"/C/xampp/htdocs/nw.html",
+		"/C/Didattica/mixSta/sito esempio/index.html",
+		"/C/Users/andre/Desktop/mixSta/sito esempio/p1.html",
+		"/C/Users/andre/Desktop/mixSta/sito esempio/index.html",
+		"/C/Users/andre/Desktop/mixSta/sito esempio/style.css",
+		"/C/Users/andre/Desktop/mixSta/model.html",
+		"/C/Users/andre/Desktop/mixSta/sitoresponsivegrid12/sitoResponsiveGrid12/css/style.css",
+		"/C/Users/andre/Desktop/mixSta/sitoresponsivegrid12/sitoResponsiveGrid12/index.html",
+		"/C/Users/andre/Desktop/mixSta/sitoresponsive/Responsive/index.html",
+		"/C/Users/andre/Desktop/sitoWeb/sito esempio/index.html",
+		"/C/Users/andre/Desktop/sitoWeb/sito esempio/style.css",
+		"/C/Users/andre/Desktop/sitoWeb/sitoresponsivegrid12/sitoResponsiveGrid12/js/jquery-1.7.1.min.js",
+		"/C/xampp/htdocs/Aldini/index.html",
+		"/C/xampp/htdocs/prova1/class1.php",
+		"/C/xampp/htdocs/prova1/index.html",
+		"/C/xampp/htdocs/class1.php",
+		"/C/xampp/htdocs/classi1.html",
+		"/C/xampp/htdocs/class.php",
+		"/C/xampp/htdocs/classi.html",
+		"/C/Users/andre/Desktop/5AIN/script.php",
+		"/C/Users/andre/Downloads/Untitled.ipynb",
+		"/C/Users/andre/Desktop/2PIT/recupero/Verifica recupero compagno/Verifica recupero compagno/VerificaRecuperoCompagno.html",
+		"/C/Users/andre/Desktop/2PIT/recupero/domenicali/domenicali/biciclettadomenicalidavide.html",
+		"/C/Users/andre/Desktop/Blink/1-Blink.html",
+		"/C/Users/andre/Desktop/2SIT/Forms.html",
+		"/C/Users/andre/Desktop/2PIT/Berselli/verifica layout/verifica layout/verifica.html",
+		"/C/Users/andre/Desktop/2SIT/Grouping Form Elements.html",
+		"/C/Users/andre/Desktop/2SIT/HTML5 Date Input.html",
+		"/C/Users/andre/Desktop/2PIT/Menarini/Verifica Menarini (extract.me)/Verifica Menarini/index.html",
+		"/C/Users/andre/Desktop/2PIT/Menarini/Verifica Menarini (extract.me)/Verifica Menarini/style.css",
+		"/C/Users/andre/Desktop/2SIT/Fixed Width Layout.html",
+		"/C/Users/andre/Desktop/2PIT/Berselli/verifica layout/verifica layout/style.css",
+		"/C/Users/andre/Desktop/2PIT/Compagno/Verifica/Verifica/VerificaCompagno.html",
+		"/C/Users/andre/Desktop/2PIT/Compagno/Verifica/Verifica/style.css",
+		"/C/Users/andre/Desktop/2PIT/Domenicali/bis/verifica/verifica/VerificaCompagno.html",
+		"/C/Users/andre/Desktop/2PIT/VerificaFinaleBergami/VerificaFinaleBergami.html",
+		"/C/Users/andre/Desktop/2PIT/VerificaFinaleBergami/style.css",
+		"/C/Users/andre/Desktop/2PIT/Verifica_TostiTomas/Verifica_TostiTomas.html",
+		"/C/Users/andre/Desktop/2PIT/verifica.GIANNOZZI/verifica.html"
+	],
+	"find":
+	{
+		"height": 46.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								727,
+								727
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1025.6,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.4
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 89.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
